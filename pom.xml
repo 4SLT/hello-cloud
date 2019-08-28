@@ -21,6 +21,10 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     </properties>
 
+    <modules>
+        <module>hello-spring-cloud-alibaba-deoendencies</module>
+    </modules>
+
     <licenses>
         <license>
             <name>Apache 2.0</name>
