@@ -23,6 +23,7 @@
 
     <modules>
         <module>hello-spring-cloud-alibaba-deoendencies</module>
+        <module>hello-spring-cloud-alibaba-provider</module>
     </modules>
 
     <licenses>
